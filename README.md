@@ -1,8 +1,8 @@
-Tip Calculator Project - README 🧾💰
+Tip Calculator Project 🧾💰
 
 📌 Purpose
 
-This project, My Resume Capstone Project, is designed to demonstrate my coding skills while solving a real-world problem. It's a simple yet practical application for calculating how much each person owes when splitting a bill, including a tip. Perfect for dining out with friends or colleagues!
+This project, Tip Calculator Project, is designed to demonstrate my coding skills while solving a real-world problem. It's a simple yet practical application for calculating how much each person owes when splitting a bill, including a tip. Perfect for dining out with friends or colleagues!
 
 🛠️ Technologies Used
 
